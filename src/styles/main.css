@@ -64,7 +64,6 @@ h2{
     content: '';
     position: absolute;
     inset: 0px;
-    opacity: .85;
     background-color: #404040;
     transition: .25s;
     transform: rotateY(0deg);
